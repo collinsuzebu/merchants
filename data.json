@@ -1,0 +1,32 @@
+{
+  "transactions": [
+    {
+      "merchantId": "1234567890",
+      "currency": "GBP",
+      "datetime": "2021-06-20T00:00:00Z",
+      "amount": 97,
+      "name": "Ilias"
+    },
+    {
+      "merchantId": "1234567891",
+      "currency": "GBP",
+      "datetime": "2021-08-20T00:00:00Z",
+      "amount": 99,
+      "name": "Catherine"
+    },
+    {
+      "merchantId": "1234567890",
+      "currency": "GBP",
+      "datetime": "2021-07-20T00:00:00Z",
+      "amount": 90,
+      "name": "Jim"
+    },
+    {
+      "merchantId": "1234567890",
+      "currency": "GBP",
+      "datetime": "2021-04-20T00:00:00Z",
+      "amount": 72,
+      "name": "Alex"
+    }
+  ]
+}
